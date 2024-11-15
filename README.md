@@ -1,6 +1,8 @@
 
 # Git Branch Cleaner
 
+[Article](https://medium.com/@tomaszs2/automate-git-branch-cleanup-with-python-say-goodbye-to-manual-tidying-e79e8a2e3155)
+
 A Python script to help manage and clean up Git branches in your repository. This tool allows you to:
 - **Delete unused local branches** that haven’t been pushed to the remote or have not been updated recently.
 - **Delete merged branches** that have already been merged into the main branch, allowing you to keep your repository organized and free of redundant branches.
